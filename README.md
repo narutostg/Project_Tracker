@@ -32,10 +32,13 @@ Aplikasi ini memungkinkan pengguna untuk mengelola tugas melalui fitur tambah, l
 - Antarmuka responsif yang dapat digunakan pada berbagai ukuran layar.
 
 ## Tampilan Aplikasi
+Tampilan Awal
 <img width="1920" height="841" alt="image" src="https://github.com/user-attachments/assets/53f8bd1d-c64a-48fc-81da-c5b8b46ffae5" />
 
+Penambahan Task
 <img width="1920" height="837" alt="image" src="https://github.com/user-attachments/assets/3df8d26f-bad0-4e30-b2a2-3b79e05185e1" />
 
+Fitur Filter
 <img width="1920" height="844" alt="image" src="https://github.com/user-attachments/assets/44ccd3f2-6c94-4017-a363-0993b4277526" />
 
 
