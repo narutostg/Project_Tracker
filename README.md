@@ -6,20 +6,20 @@ Aplikasi ini memungkinkan pengguna untuk mengelola tugas melalui fitur tambah, l
 ## Teknologi yang Digunakan
 
 ### Frontend
-- **Vue 3** — menggunakan Composition API.
-- **Vite** — development server dan build tool.
-- **Axios** — komunikasi dengan REST API.
-- **CSS** — styling dan responsive layout.
+- **Vue 3** - menggunakan Composition API.
+- **Vite** - development server dan build tool.
+- **Axios** - komunikasi dengan REST API.
+- **CSS** - styling dan responsive layout.
 
 ### Backend
-- **Python** — bahasa pemrograman backend.
-- **FastAPI** — framework untuk membangun REST API.
-- **SQLAlchemy** — ORM untuk interaksi dengan database.
-- **Pydantic** — validasi dan pengelolaan data.
+- **Python** - bahasa pemrograman backend.
+- **FastAPI** - framework untuk membangun REST API.
+- **SQLAlchemy** - ORM untuk interaksi dengan database.
+- **Pydantic** - validasi dan pengelolaan data.
 
 ### Database
-- **PostgreSQL** — relational database.
-- **Docker Compose** — menjalankan PostgreSQL dalam container.
+- **PostgreSQL** - relational database.
+- **Docker Compose** - menjalankan PostgreSQL dalam container.
 
 ## Fitur
 
