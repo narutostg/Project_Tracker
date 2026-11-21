@@ -269,6 +269,9 @@ Dokumentasi interaktif API dapat diakses melalui:
 
 Swagger UI dapat digunakan untuk melihat endpoint, memeriksa struktur request dan response, serta mencoba API secara langsung.
 
+<img width="1635" height="325" alt="image" src="https://github.com/user-attachments/assets/fe9967eb-e242-4784-96ba-3946a7a4de31" />
+
+
 ## Troubleshooting
 
 **1. Database tidak dapat dihubungkan**
