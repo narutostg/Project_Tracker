@@ -292,8 +292,3 @@ Swagger UI dapat digunakan untuk melihat endpoint, memeriksa struktur request da
 - Pastikan server FastAPI sedang berjalan.
 - Pastikan backend tersedia pada `http://127.0.0.1:8000`.
 - Pastikan frontend berjalan pada `http://localhost:5173`.
-
----
-
-**Alfagift Task Tracker**  
-Dikembangkan sebagai bagian dari technical assessment Full-Stack Developer Intern.
