@@ -34,9 +34,10 @@ Aplikasi ini memungkinkan pengguna untuk mengelola tugas melalui fitur tambah, l
 ## Tampilan Aplikasi
 <img width="1920" height="841" alt="image" src="https://github.com/user-attachments/assets/53f8bd1d-c64a-48fc-81da-c5b8b46ffae5" />
 
-<img width="1920" height="840" alt="image" src="https://github.com/user-attachments/assets/0cb4719d-3d75-4791-9d86-aa06c5901284" />
+<img width="1920" height="837" alt="image" src="https://github.com/user-attachments/assets/3df8d26f-bad0-4e30-b2a2-3b79e05185e1" />
 
-<img width="1920" height="834" alt="image" src="https://github.com/user-attachments/assets/80d79160-e5e1-4bfe-a036-9a86c815f49e" />
+<img width="1920" height="844" alt="image" src="https://github.com/user-attachments/assets/44ccd3f2-6c94-4017-a363-0993b4277526" />
+
 
 
 
